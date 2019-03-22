@@ -1,4 +1,4 @@
-# GoMedia Automation Test
+# Automation Test Demo
 
 Demonstration to automate the single page application as the url:
  https://skyronic.github.io/vue-spa/#/
@@ -18,7 +18,7 @@ https://www.jetbrains.com/idea/download/#section=mac
 - JDK 11 or above 
 https://openjdk.java.net/install/index.html
 
-Google Chrome web browser
+- Google Chrome web browser
 
 ### Installing
 
